@@ -1,0 +1,4 @@
+what is class?
+how to define class in python?
+attributes and methods in python?
+what are special methods in python? ["__init__", "__str__", "__add__", "__getitem__", "__repr__", etc...]

@@ -1,0 +1,10 @@
+# examples of sequences
+
+# a list
+[0, None, -2, 1]
+
+# a string
+"hello out there"
+
+# a tuple
+("a", False, 0, 1)

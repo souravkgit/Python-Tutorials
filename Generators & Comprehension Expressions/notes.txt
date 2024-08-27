@@ -1,0 +1,2 @@
+A generator is a special kind of iterator, which stores the instructions for how to generate each of its members, in order, along with its current state of iterations. It generates each member, one at a time, only as it is requested via iteration.
+It allows us to generate arbitrarily-many items in a series, without having to store them all in memory at once.
